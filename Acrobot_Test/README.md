@@ -1,2 +1,2 @@
 # Training Acrobot with RL
-This code is adapted from deeplizard.com.
+This uses code from deeplizard.com.
